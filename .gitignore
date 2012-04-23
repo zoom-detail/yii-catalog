@@ -3,3 +3,4 @@
 /protected/runtime/*
 /images/goods/*
 /protected/config/production.php
+/nbproject/
